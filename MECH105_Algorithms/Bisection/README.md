@@ -1,6 +1,6 @@
 # Bisection Method
 ## Description
-** Contains a bisection method script to find the root of a function**
+** Contains a bisection method script to find the root of a function **
 
 ## Specifics of Function:
 
