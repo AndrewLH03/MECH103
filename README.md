@@ -5,6 +5,7 @@
 - Description
 - Algorithms
 - Getting Started
+
 **This repository contains algorithms that were implemented as part of the coursework for MECH105: Introduction to MATLAB. The algorithms cover a range of topics including numerical methods, linear algebra, and differential equations.**
 
 ## Algorithms
