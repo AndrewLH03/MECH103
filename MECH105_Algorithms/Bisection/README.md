@@ -4,7 +4,7 @@
 
 ## Specifics of Function:
 
-* Inputs: *
+*Inputs:*
 -   'func': passed function where root will be found on
 -   'xl': passed lower bound
 -   'xu': passed upper bound
