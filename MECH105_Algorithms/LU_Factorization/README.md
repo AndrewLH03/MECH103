@@ -13,26 +13,26 @@
 #Example
 Only a coefficient matrix needs to be passed where it will use gauss elimination to create the upper and lower matrices as well as keep track of permutations where '[A] [P] = [L] [U]'.
 If the A matrix: 
-|  A  |
+|   | A |   |
 |---|---|---|
-|1|2|3|  
-|4|5|6|				
-|7|8|9|
+|1  |2  |3  |  
+|4  |5  |6  |				
+|7  |8  |9  |
 were to be passed, it would return:
-|      L      |
-|---|---|---|
-|1    |0    |0|
-|0.143|1    |0| 
-|0.571|0.500|1|
+|     |  L  |   |
+|---  |---  |---|
+|1    |0    |0  |
+|0.143|1    |0  | 
+|0.571|0.500|1  |
 
-|       U     |
-|---|---|---|
-|7|8    |9    |
-|0|0.857|1.714|
-|0|0    |0    |
+|   |  U  |     |
+|---|---  |---  |
+|7  |8    |9    |
+|0  |0.857|1.714|
+|0  |0    |0    |
 
-|  P  |
+|   | P |   |
 |---|---|---|
-|0|0|1|
-|1|0|0|
-|0|1|0|
+|0  |0  |1  |
+|1  |0  |0  |
+|0  |1  |0  |
