@@ -1,5 +1,5 @@
-# MECH105 Algorithm Repository
-**Welcome to my MECH105 Algorithm Repository! This repository contains various algorithms implemented during the MECH105 course at Colorado State University.**
+# MECH105 Repository
+**Welcome to my MECH105  Repository! This repository contains various algorithms implemented during the MECH105 course at Colorado State University.
 
 ---
 
@@ -7,6 +7,7 @@
 - Description
 - Algorithms
 - Getting Started
+
 ## Description
 **This repository contains algorithms that were implemented as part of the coursework for MECH105: Introduction to MATLAB. The algorithms cover a range of topics including numerical methods, linear algebra, and differential equations.**
 
