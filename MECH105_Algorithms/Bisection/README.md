@@ -12,7 +12,7 @@
 -   'maxIt': maximum number of iterations
 -   'varargin': number of variables passed
 
-* Outputs: 
+*Outputs:*
 -   'fx' = y-value of root found
 -   'ea' = approximate error found with root
 -   'iter' = number of iterations to find root
