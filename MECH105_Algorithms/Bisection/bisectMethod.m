@@ -20,7 +20,7 @@ iter = 0;
 ea = 1;
 
 % Ensuring that passed bounds contains a sign change
-if func(xl) * func(xu) > 0
+if func(xL) * func(xU) > 0
     error('No sign change detected')
 end
 
@@ -48,13 +48,13 @@ while ea > es && iter < maxIt
 
     % Calculating y-values
     fx = func(root);
-    yl = func(xl);
+    yl = func(xL);
 
     % Checking for if the upper or lower bounds need to be changed
     if fx * yl < 0
-        xu = root;
+        xU = root;
     else
-        xl = root;
+        xL = root;
     end
 end
 end
