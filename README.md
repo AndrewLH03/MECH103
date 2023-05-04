@@ -1,5 +1,5 @@
 # MECH105 Repository
-**Welcome to my MECH105  Repository! This repository contains various algorithms implemented during the MECH105 course at Colorado State University.
+**Welcome to my MECH105  Repository! This repository contains various scripts I created and/or implemented during the MECH105 course at Colorado State University.
 
 ---
 
