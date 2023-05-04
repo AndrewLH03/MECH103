@@ -1,6 +1,8 @@
 # MECH105 Algorithm Repository
 **Welcome to my MECH105 Algorithm Repository! This repository contains various algorithms implemented during the MECH105 course at Colorado State University.**
 
+---
+
 ## Table of Contents
 - Description
 - Algorithms
