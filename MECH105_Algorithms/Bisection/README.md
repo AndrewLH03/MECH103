@@ -1,9 +1,9 @@
 # Bisection Method
 ## Description
-** Contains a bisection method script to find the root of a function
-**Specifics of Function:
+** Contains a bisection method script to find the root of a function**
+**Specifics of Function:**
 
-* Inputs: 
+* Inputs: *
 -   func: passed function where root will be found on
 -   xl: passed lower bound
 -   xu: passed upper bound
