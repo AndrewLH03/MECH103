@@ -1,8 +1,10 @@
-#LU Factorization
+#LU Factorization 
 ##Description
+
 **Contains an LU Factorization script designed to create a lower, upper, and permutation matrices when given an A matrix.**
 
 #Specifics of Function:
+
 *Inputs:*
 - A = Coefficient matrix
 *Outputs*
