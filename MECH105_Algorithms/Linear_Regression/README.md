@@ -6,7 +6,6 @@
 
 *Inputs:*
 - x: x-values for our data set
-
 - y: y-values for our data set
 
 *Outputs:*
@@ -20,6 +19,7 @@
 Given a vector of x and y values such as: 
 
 x = [1 2 3 4 5 6] 
+
 y = [1 2 1.3 3.75 2.5 100]
 
 It will return:
