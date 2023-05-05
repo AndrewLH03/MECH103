@@ -13,7 +13,7 @@
 
 ## Example:
 Only a coefficient matrix needs to be passed where it will use gauss elimination to create the upper and lower matrices as well as keep track of permutations where '[A] [P] = [L] [U]'.
-If the A matrix: 
+If the A matrix is: 
 
 |   | A |   |
 |---|---|---|
@@ -21,7 +21,7 @@ If the A matrix:
 |4  |5  |6  |				
 |7  |8  |9  |
 
-were to be passed, it would return:
+It would return:
 
 |     |  L  |   |
 |---  |---  |---|
