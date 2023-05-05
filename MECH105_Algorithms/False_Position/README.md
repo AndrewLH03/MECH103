@@ -23,8 +23,8 @@ The function, lower bound, and upper bound must be pass, but the stopping criter
 An acceptable function would be:  
 "func = @(x) x.^2 - 1" 
 
-With bounds of: 
+With bounds of:   
 "0" and "2" 
 
-Would return: 
+Would return:   
 "1"
