@@ -12,7 +12,8 @@
 - P = Permutation matrix
 
 ## Example:
-Only a coefficient matrix needs to be passed where it will use gauss elimination to create the upper and lower matrices as well as keep track of permutations where '[A] [P] = [L] [U]'.
+Only a coefficient matrix needs to be passed where it will use gauss elimination to create the upper and lower matrices as well as keep track of permutations where [A] [P] = [L] [U].
+
 If the A matrix is: 
 
 |   | A |   |
