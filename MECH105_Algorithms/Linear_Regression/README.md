@@ -18,14 +18,12 @@
 ## Example: 
 Given a vector of x and y values such as: 
 
-x = [1 2 3 4 5 6] 
-
-y = [1 2 1.3 3.75 2.5 100]
+- x = [1 2 3 4 5 6] 
+- y = [1 2 1.3 3.75 2.5 100]
 
 It will return:
-
-fX = [1 3 2 5 4]
-fY = [1 1.3 2 2.5 3.75]
-slope = 0.4750
-intercept = 0.6850
-Rsquared = 0.4758
+- fX = [1 3 2 5 4]
+- fY = [1 1.3 2 2.5 3.75]
+- slope = 0.4750
+- intercept = 0.6850
+- Rsquared = 0.4758
