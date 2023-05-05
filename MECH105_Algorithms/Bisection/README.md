@@ -19,9 +19,12 @@
 
 ## Example: 
 The function, lower bound, and upper bound must be pass, but the stopping criteria and maximum iterations are optional and will be set to default values of "0.0001" for es and 200 for maxIt. 
+
 An acceptable function would be:
 "func = @(x) x.^2 - 1"
 
-With bounds of: "0" and "2"
+With bounds of: 
+"0" and "2"
 
-Would return "1.25"
+Would return 
+"1.25"
