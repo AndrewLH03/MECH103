@@ -1,11 +1,12 @@
 # Linear Regression
 ## Description
-**Contains a script to create a linear regression line, as well as find the R^2 value**
+**Contains a script to create a linear regression line, as well as find the R^2^ value**
 
 ## Specifics of Function:
 
 *Inputs:*
 - x: x-values for our data set
+
 - y: y-values for our data set
 
 *Outputs:*
