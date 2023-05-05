@@ -36,7 +36,7 @@
 - Computer Memory
 
 ## In-Class
-**During the length of this class, we used scripts, some developed by Dr. Bechara, and some developed by me, to complete problems in class**
+**During the length of this class, I used scripts, some developed by Dr. Bechara, and some developed by me, to complete problems in class**
 
 *Includes:*
 - Plotting an Ellipse
