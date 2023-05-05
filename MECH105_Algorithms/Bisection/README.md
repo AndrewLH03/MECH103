@@ -26,5 +26,5 @@ An acceptable function would be:
 With bounds of:   
 "0" and "2"
 
-Would return: 
+Would return:   
 "1.25"
