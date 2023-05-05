@@ -28,7 +28,7 @@
 ## Homework
 **Includes all files used as a part of completing homework assignments during this course**
 
-*Files Include:*
+*Include:*
 - Linear Regression
 - Open Methods
 - Taylor Series
