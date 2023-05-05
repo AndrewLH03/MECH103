@@ -27,6 +27,7 @@
 
 ## Homework
 **Includes all files used as a part of completing homework assignments during this course**
+
 *Files Include:*
 - Linear Regression
 - Open Methods
@@ -36,6 +37,7 @@
 
 ## In-Class
 **During the length of this class, we used scripts, some developed by Dr. Bechara, and some developed by me, to complete problems in class**
+
 *Includes:*
 - Plotting an Ellipse
 - Linear Regression Model of Covid
