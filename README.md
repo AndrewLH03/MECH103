@@ -36,7 +36,7 @@
 
 ## In-Class
 **During the length of this class, we used scripts, some developed by Dr. Bechara, and some developed by me, to complete problems in class**
-*Includes: *
+*Includes:*
 - Plotting an Ellipse
 - Linear Regression Model of Covid
 - Tanara's Problem
