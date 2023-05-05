@@ -2,8 +2,8 @@
 ## Description
 **Contains a false position method script to find the root of a function**
 
-##Specifics of Function:
-* Inputs: *
+## Specifics of Function:
+*Inputs:*
 -   func: passed function where root will be found on
 -   xl: passed lower bound
 -   xu: passed upper bound
@@ -11,7 +11,7 @@
 -   maxit: maximum number of iterations
 -   varargin: number of variables passed
 
-* Outputs: *
+*Outputs:*
 -   root: estimated root found
 -   fx = y-value of root found
 -   ea = approximate error found with root
